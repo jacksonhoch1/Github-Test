@@ -88,6 +88,7 @@ This color `hsl(200, 100%, 50%)` is done using HSL
 - [ ] Item 2
 - [ ] Item 3
 - [ ] \(This item) has parenthases in it
+- [x] Item 4
 
 <!-- Emoji -->
 :+1: This is a thumbs up
