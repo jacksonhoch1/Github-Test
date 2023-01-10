@@ -3,6 +3,7 @@
 - [navx-frc](https://www.kauailabs.com/dist/frc/2022/navx_frc.json "Online installation link")
 - [REVlib](https://software-metadata.revrobotics.com/REVLib.json "Online installation link")
 - [Pathplannerlib](https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json "Online installation link")
+- [PhotonLib](https://maven.photonvision.org/repository/internal/org/photonvision/PhotonLib-json/1.0/PhotonLib-json-1.0.json "Online installation link")
 
 
 ## Covers
