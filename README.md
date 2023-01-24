@@ -1,6 +1,6 @@
 ## Robotics Vendor Libraries
 - Pheonix library is available for offline installation in wpi by default if you have phoenix tuner installed
-- [navx-frc](https://www.kauailabs.com/dist/frc/2022/navx_frc.json "Online installation link")
+- [navx-frc](https://dev.studica.com/releases/2023/NavX.json "Online installation link")
 - [REVlib](https://software-metadata.revrobotics.com/REVLib-2023.json "Online installation link")
 - [Pathplannerlib](https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json "Online installation link")
 - [PhotonLib](https://maven.photonvision.org/repository/internal/org/photonvision/PhotonLib-json/1.0/PhotonLib-json-1.0.json "Online installation link")
